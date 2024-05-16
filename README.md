@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![7](https://github.com/sathyaa22/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/140483368/df1b9825-9d1b-45ba-b5aa-c52d06d3c9df)
+
+### Name: SATHYAA R
+### Register Number: 212223100052
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
